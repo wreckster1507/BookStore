@@ -73,4 +73,3 @@ A full-stack web application for managing a bookstore, built with the MERN stack
 Contributions are welcome! Feel free to submit pull requests or open issues.
 
 
-```
